@@ -5,14 +5,14 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/moodiest/Proxy-Checker/issues)
 [![HitCount](http://hits.dwyl.com/moodiest/Proxy-Checker.svg)](http://hits.dwyl.com/moodiest/Proxy-Checker)
  
-This tool takes an input for a list of proxies and then checks each one by making a request to api.ipify.com. It features multithreading and a custom timeout (milliseconds). Currently, only HTTP proxies are supported.
+This tool takes an input for a list of proxies and then checks each one by making a request to api.ipify.com. It features multi-threading and a custom timeout (milliseconds). Currently, only HTTP proxies are supported.
 
 Contributors are welcome. It was created using C# with the .NET Core framework.
 
 ## Features
 * CLI (command-line interface)
 * HTTP proxy support
-* Multithreading
+* Multi-threading
 * Custom Timeout
 
 ## To-Do
