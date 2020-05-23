@@ -10,12 +10,14 @@ This tool takes an input for a list of proxies and then checks each one by makin
 Contributors are welcome. It was created using C# with the .NET Core framework.
 
 ## Features
-* [x] CLI (command-line interface)
-* [ ] GUI (graphical interface)
-* [x] HTTP proxy support
-* [ ] Socks4/Socks5 proxy support
-* [x] Multithreading
-* [x] Custom Timeout
+* CLI (command-line interface)
+* HTTP proxy support
+* Multithreading
+* Custom Timeout
+
+## To-Do
+* GUI (graphical interface)
+* Socks4/Socks5 proxy support
 
 ## Usage
 
