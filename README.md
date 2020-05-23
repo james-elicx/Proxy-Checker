@@ -7,7 +7,7 @@
  
 This tool takes an input for a list of proxies and then checks each one by making a request to api.ipify.com. It features multithreading and a custom timeout (milliseconds). Currently, only HTTP proxies are supported.
 
-Contributors are welcome.
+Contributors are welcome. It was created using C# with the .NET Core framework.
 
 ## Features
 * [x] CLI (command-line interface)
